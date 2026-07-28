@@ -21,6 +21,14 @@ I'm a passionate **Frontend Developer** with a love for **calisthenics** and **p
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=c#)
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endritvitija/endritvitija/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endritvitija/endritvitija/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/endritvitija/endritvitija/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 ## Let's Connect! 🌍
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endritvitija/)
