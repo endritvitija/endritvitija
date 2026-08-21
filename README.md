@@ -10,30 +10,6 @@ I enjoy turning complex requirements into **simple, scalable, performant, and in
 
 ---
 
-## Tech Stack
-
-**Frontend**
-
-`React` · `React Native` · `Angular` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-**State & Data**
-
-`Redux` · `Redux Saga` · `Redux Thunk` · `RxJS` · `GraphQL` · `Apollo`
-
-**Backend & APIs**
-
-`Node.js` · `.NET Core` · `C#` · `REST` · `GraphQL` · `Socket.IO`
-
-**UI & Tooling**
-
-`Storybook` · `Tailwind CSS` · `Styled Components` · `Angular Material` · `Ant Design`
-
-**Development**
-
-`Git` · `Vite` · `Webpack` · `Nx` · `Expo` · `EAS` · `Firebase` · `Supabase`
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/endritvitija/)
